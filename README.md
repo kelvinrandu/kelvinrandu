@@ -4,7 +4,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I create simple,fast web applications  
+I create simple,fast web applications using React.js
 
 * 🧐   Interested in frontend web technologies .
 * 💼   Freelance web developer.
