@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**kelvinrandu/kelvinrandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello there 👋 Am kelvin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+I create simple,fast web applications  
+
+* 🧐   Interested in frontend web technologies .
+* 💼   Freelance web developer.
+* 🎓   Bsc in Computer Science 
+* 🌱   Currently learning Nextjs and Graphql.
+* 📚   Reading more about internet  .
+* 💻   With 4 years' computer science and technology education and 4 years' development working experience.
+
+  
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://www.linkedin.com/in/kelvin-randu/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/kelvin_randu"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+
+</p>
+
+
+---
+
+
+-----
+Credits: [kelvinrandu](https://github.com/kelvinrandu/)
+
+Last Edited on: 18/06/2021
