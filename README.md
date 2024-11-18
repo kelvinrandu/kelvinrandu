@@ -9,7 +9,7 @@ I create simple,fast web applications using React.js
 * 🧐   Interested in frontend web technologies .
 * 💼   Freelance web developer.
 * 🎓   Bsc in Computer Science 
-* 🌱   Currently learning Nextjs , Graphql and Hasura.
+* 🌱   Currently learning Nextjs , Langchain and LLM.
 * 📚   Reading more about internet  .
 * 💻   With 4 years' computer science and technology education and 4 years' development working experience.
 
